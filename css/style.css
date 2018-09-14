@@ -1,0 +1,403 @@
+body {
+    
+    background:url('../images/ccc-head-image.jpg') no-repeat center center fixed; 
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    
+}
+
+.cover-back {
+    
+    background-color: #dbf2fc;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+
+@media only screen and (max-width: 576px) {
+   .image-center {
+        margin: 0 auto;
+    }
+    
+    .button-center {
+        
+        text-align: center;
+    }
+    
+    
+}
+
+.rolldown {
+    
+    background-color: #00acfc;
+    box-shadow: 1px 7px 10px 2px #066fab;
+    
+}
+
+
+.nav a {
+    
+    color: white;
+    font-weight: 700
+  
+}
+
+.nav a:hover {
+    
+    color: #00acfc;
+  
+}
+
+.nav .caret {
+    background-color: #00acfc;
+    border: 0;
+    
+}
+
+.nav .caret:hover {
+    background-color: #c0ebfe;
+   
+    
+}
+
+.rolldown li:hover {
+    
+    background-color: #c0ebfe;
+    color: black;
+    
+}
+
+.dropdown-menu {
+    
+    background-color: #00acfc;
+    box-shadow: 1px 6px 10px 0px #066fab;
+    
+}
+
+.dropdown-menu a:hover {
+    
+    background-color: #c0ebfe;
+    
+}
+
+.company-header {
+    
+    
+    height: 950px;
+    padding-top: 350px;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: 1px 5px 20px 5px #066fab;
+    
+}
+
+
+.header-caption {
+    
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+
+.jumbotron a {
+    
+    padding: 10px 50px;;
+    font-weight: bold;
+    
+}
+
+.intro {
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.services {
+    
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #00acfc;
+    box-shadow: 1px 5px 15px 5px #066fab;
+    
+}
+
+
+footer {
+    
+    background-color: #e0e2e5;
+  
+    
+}
+
+
+.on-scroll{
+    background-color: #00acfc;
+}
+
+
+.vertical-menu {
+    
+    width: 250px;
+}
+
+.vertical-menu a {
+    
+    color: white;
+    display: block;
+    padding: 1px;
+    text-decoration: none;
+}
+
+.vertical-menu .head {
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.vertical-menu a:hover {
+    
+    color: #00acfc;
+    
+}
+
+
+#about .about-this {
+    
+    background-color: #00acfc;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 180px;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: white;
+    
+}
+
+#about .breadcrumb {
+    
+    background-color: #00acfc;
+    
+}
+
+#about .breadcrumb li {
+    
+    color: white;
+    
+}
+
+#about .breadcrumb a {
+    
+    color: skyblue;
+    
+}
+
+#about .breadcrumb a:hover {
+    
+    color: white;
+    
+}
+
+#about .card-body a {
+    
+    border: 0;
+    
+}
+
+#about .card-title {
+    
+    background-color: #00acfc;
+    padding: 20px;
+    color: white;
+    box-shadow: 0px 10px 0px 0px #b2e2f7;
+
+}
+
+#about .card-body a:hover {
+    
+    background-color: #00acfc;
+    color: white;
+    
+}
+
+#mteam .about-this {
+    
+    background-color: #00acfc;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 180px;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: white;
+    
+}
+
+#mteam .breadcrumb {
+    
+    background-color: #00acfc;
+    
+}
+
+#mteam .breadcrumb li {
+    
+    color: white;
+    
+}
+
+#mteam .breadcrumb a {
+    
+    color: skyblue;
+    
+}
+
+#mteam .breadcrumb a:hover {
+    
+    color: white;
+    
+}
+
+#mteam .card-body a {
+    
+    border: 0;
+    
+}
+
+#mteam .card-title {
+    
+    background-color: #00acfc;
+    padding: 20px;
+    color: white;
+    box-shadow: 0px 10px 0px 0px #b2e2f7;
+
+}
+
+#mteam .card-body a:hover {
+    
+    background-color: #00acfc;
+    color: white;
+    
+}
+
+#mteam .alignleft {
+    float: left;
+    margin: 5px 20px 10px 0;
+}
+
+#oteam .about-this {
+    
+    background-color: #00acfc;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 180px;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: white;
+    
+}
+
+#oteam .breadcrumb {
+    
+    background-color: #00acfc;
+    
+}
+
+#oteam .breadcrumb li {
+    
+    color: white;
+    
+}
+
+#oteam .breadcrumb a {
+    
+    color: skyblue;
+    
+}
+
+#oteam .breadcrumb a:hover {
+    
+    color: white;
+    
+}
+
+#oteam .card-body a {
+    
+    border: 0;
+    
+}
+
+#oteam .card-title {
+    
+    background-color: #00acfc;
+    padding: 20px;
+    color: white;
+    box-shadow: 0px 10px 0px 0px #b2e2f7;
+
+}
+
+#oteam .card-body a:hover {
+    
+    background-color: #00acfc;
+    color: white;
+    
+}
+
+#oteam .alignleft {
+    float: left;
+    margin: 5px 20px 10px 0;
+}
+
+
+#datam .about-this {
+    
+    background-color: #00acfc;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 180px;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: white;
+    
+}
+
+#datam .breadcrumb {
+    
+    background-color: #00acfc;
+    
+}
+
+#datam .breadcrumb li {
+    
+    color: white;
+    
+}
+
+#datam .breadcrumb a {
+    
+    color: skyblue;
+    
+}
+
+#datam .breadcrumb a:hover {
+    
+    color: white;
+    
+}
+
+#datam .expert {
+    
+    background-color: #aee5f9;
+    
+}
+
+#datam .expert-footer {
+    
+    background-color: #dbf2fc;
+    
+}
+
