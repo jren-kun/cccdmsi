@@ -352,6 +352,69 @@ footer {
     margin: 5px 20px 10px 0;
 }
 
+#services .about-this {
+    
+    background-color: #00acfc;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 180px;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: white;
+    
+}
+
+#services .breadcrumb {
+    
+    background-color: #00acfc;
+    
+}
+
+#services .breadcrumb li {
+    
+    color: white;
+    
+}
+
+#services .breadcrumb a {
+    
+    color: skyblue;
+    
+}
+
+#services .breadcrumb a:hover {
+    
+    color: white;
+    
+}
+
+#services .card-body a {
+    
+    border: 0;
+    
+}
+
+#services .card-title {
+    
+    background-color: #00acfc;
+    padding: 20px;
+    color: white;
+    box-shadow: 0px 10px 0px 0px #b2e2f7;
+
+}
+
+#services .card-body a:hover {
+    
+    background-color: #00acfc;
+    color: white;
+    
+}
+
+#services .alignleft {
+    float: left;
+    margin: 5px 20px 10px 0;
+}
+
 
 #datam .about-this {
     
@@ -387,6 +450,33 @@ footer {
     
     color: white;
     
+}
+
+#datam .card-body a {
+    
+    border: 0;
+    
+}
+
+#datam .card-title {
+    
+    background-color: #00acfc;
+    padding: 20px;
+    color: white;
+    box-shadow: 0px 10px 0px 0px #b2e2f7;
+
+}
+
+#datam .card-body a:hover {
+    
+    background-color: #00acfc;
+    color: white;
+    
+}
+
+#datam .alignleft {
+    float: left;
+    margin: 5px 20px 10px 0;
 }
 
 #datam .expert {
