@@ -30,6 +30,21 @@ body {
     
 }
 
+.come-button {
+ 
+    height: 50px;
+    width: 260px;
+    padding-top: 9px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.btn-primary:hover {
+ 
+    background-color: #00acfc;
+}
+
+
 .rolldown {
     
     background-color: #00acfc;
@@ -479,15 +494,143 @@ footer {
     margin: 5px 20px 10px 0;
 }
 
-#datam .expert {
+.expert {
     
     background-color: #aee5f9;
     
 }
 
-#datam .expert-footer {
+.expert-footer {
     
     background-color: #dbf2fc;
     
 }
+
+#acc .about-this {
+    
+    background-color: #00acfc;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 180px;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: white;
+    
+}
+
+#acc .breadcrumb {
+    
+    background-color: #00acfc;
+    
+}
+
+#acc .breadcrumb li {
+    
+    color: white;
+    
+}
+
+#acc .breadcrumb a {
+    
+    color: skyblue;
+    
+}
+
+#acc .breadcrumb a:hover {
+    
+    color: white;
+    
+}
+
+#acc .card-body a {
+    
+    border: 0;
+    
+}
+
+#acc .card-title {
+    
+    background-color: #00acfc;
+    padding: 20px;
+    color: white;
+    box-shadow: 0px 10px 0px 0px #b2e2f7;
+
+}
+
+#acc .card-body a:hover {
+    
+    background-color: #00acfc;
+    color: white;
+    
+}
+
+#acc .alignleft {
+    float: left;
+    margin: 5px 20px 10px 0;
+}
+
+#recruit .about-this {
+    
+    background-color: #00acfc;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 180px;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: white;
+    
+}
+
+#recruit .breadcrumb {
+    
+    background-color: #00acfc;
+    
+}
+
+#recruit .breadcrumb li {
+    
+    color: white;
+    
+}
+
+#recruit .breadcrumb a {
+    
+    color: skyblue;
+    
+}
+
+#recruit .breadcrumb a:hover {
+    
+    color: white;
+    
+}
+
+#recruit .card-body a {
+    
+    border: 0;
+    
+}
+
+#recruit .card-title {
+    
+    background-color: #00acfc;
+    padding: 20px;
+    color: white;
+    box-shadow: 0px 10px 0px 0px #b2e2f7;
+
+}
+
+#recruit .card-body a:hover {
+    
+    background-color: #00acfc;
+    color: white;
+    
+}
+
+#recruit .alignleft {
+    float: left;
+    margin: 5px 20px 10px 0;
+}
+
+
 
