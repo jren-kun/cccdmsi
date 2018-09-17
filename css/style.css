@@ -821,6 +821,530 @@ footer {
     margin: 5px 20px 10px 0;
 }
 
+#bsop .about-this {
+    
+    background-color: #00acfc;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 180px;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: white;
+    
+}
+
+#bsop .breadcrumb {
+    
+    background-color: #00acfc;
+    
+}
+
+#bsop .breadcrumb li {
+    
+    color: white;
+    
+}
+
+#bsop .breadcrumb a {
+    
+    color: skyblue;
+    
+}
+
+#bsop .breadcrumb a:hover {
+    
+    color: white;
+    
+}
+
+#bsop .card-body a {
+    
+    border: 0;
+    
+}
+
+#bsop .card-title {
+    
+    background-color: #00acfc;
+    padding: 20px;
+    color: white;
+    box-shadow: 0px 10px 0px 0px #b2e2f7;
+
+}
+
+#bsop .card-body a:hover {
+    
+    background-color: #00acfc;
+    color: white;
+    
+}
+
+#bsop .alignleft {
+    float: left;
+    margin: 5px 20px 10px 0;
+}
+
+#phil .about-this {
+    
+    background-color: #00acfc;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 180px;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: white;
+    
+}
+
+#phil .breadcrumb {
+    
+    background-color: #00acfc;
+    
+}
+
+#phil .breadcrumb li {
+    
+    color: white;
+    
+}
+
+#phil .breadcrumb a {
+    
+    color: skyblue;
+    
+}
+
+#phil .breadcrumb a:hover {
+    
+    color: white;
+    
+}
+
+#phil .card-body a {
+    
+    border: 0;
+    
+}
+
+#phil .card-title {
+
+    background-color: #00acfc;
+    padding: 20px;
+    color: white;
+    box-shadow: 0px 10px 0px 0px #b2e2f7;
+
+}
+
+#phil .card-body a:hover {
+    
+    background-color: #00acfc;
+    color: white;
+    
+}
+
+#phil .alignleft {
+    float: left;
+    margin: 5px 20px 10px 0;
+}
+
+#chooseccc .about-this {
+    
+    background-color: #00acfc;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 180px;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: white;
+    
+}
+
+#chooseccc .breadcrumb {
+    
+    background-color: #00acfc;
+    
+}
+
+#chooseccc .breadcrumb li {
+    
+    color: white;
+    
+}
+
+#chooseccc .breadcrumb a {
+    
+    color: skyblue;
+    
+}
+
+#chooseccc .breadcrumb a:hover {
+    
+    color: white;
+    
+}
+
+#chooseccc .card-body a {
+    
+    border: 0;
+    
+}
+
+#chooseccc .card-title {
+
+    background-color: #00acfc;
+    padding: 20px;
+    color: white;
+    box-shadow: 0px 10px 0px 0px #b2e2f7;
+
+}
+
+#chooseccc .card-body a:hover {
+    
+    background-color: #00acfc;
+    color: white;
+    
+}
+
+#chooseccc .alignleft {
+    float: left;
+    margin: 5px 20px 10px 0;
+}
+
+#security .about-this {
+    
+    background-color: #00acfc;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 180px;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: white;
+    
+}
+
+#security .breadcrumb {
+    
+    background-color: #00acfc;
+    
+}
+
+#security .breadcrumb li {
+    
+    color: white;
+    
+}
+
+#security .breadcrumb a {
+    
+    color: skyblue;
+    
+}
+
+#security .breadcrumb a:hover {
+    
+    color: white;
+    
+}
+
+#security .card-body a {
+    
+    border: 0;
+    
+}
+
+#security .card-title {
+
+    background-color: #00acfc;
+    padding: 20px;
+    color: white;
+    box-shadow: 0px 10px 0px 0px #b2e2f7;
+
+}
+
+#security .card-body a:hover {
+    
+    background-color: #00acfc;
+    color: white;
+    
+}
+
+#security .alignleft {
+    float: left;
+    margin: 5px 20px 10px 0;
+}
+
+#testimonials .about-this {
+    
+    background-color: #00acfc;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 180px;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: white;
+    
+}
+
+#testimonials .breadcrumb {
+    
+    background-color: #00acfc;
+    
+}
+
+#testimonials .breadcrumb li {
+    
+    color: white;
+    
+}
+
+#testimonials .breadcrumb a {
+    
+    color: skyblue;
+    
+}
+
+#testimonials .breadcrumb a:hover {
+    
+    color: white;
+    
+}
+
+#testimonials .card-body a {
+    
+    border: 0;
+    
+}
+
+#testimonials .card-title {
+
+    background-color: #00acfc;
+    padding: 20px;
+    color: white;
+    box-shadow: 0px 10px 0px 0px #b2e2f7;
+
+}
+
+#testimonials .card-body a:hover {
+    
+    background-color: #00acfc;
+    color: white;
+    
+}
+
+#testimonials .alignleft {
+    float: left;
+    margin: 5px 20px 10px 0;
+}
+
+#contact .about-this {
+    
+    background-color: #00acfc;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 180px;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: white;
+    
+}
+
+#contact .breadcrumb {
+    
+    background-color: #00acfc;
+    
+}
+
+#contact .breadcrumb li {
+    
+    color: white;
+    
+}
+
+#contact .breadcrumb a {
+    
+    color: skyblue;
+    
+}
+
+#contact .breadcrumb a:hover {
+    
+    color: white;
+    
+}
+
+#contact .card-body a {
+    
+    border: 0;
+    
+}
+
+#contact .card-title {
+
+    background-color: #00acfc;
+    padding: 20px;
+    color: white;
+    box-shadow: 0px 10px 0px 0px #b2e2f7;
+
+}
+
+#contact .card-body a:hover {
+    
+    background-color: #00acfc;
+    color: white;
+    
+}
+
+#contact .alignleft {
+    float: left;
+    margin: 5px 20px 10px 0;
+}
+
+#contact .map {
+    
+    height:300px;
+    background-color: #e0e3e5;
+    
+}
+
+#contact .mapl {
+    width: 50%;
+    height:200px;
+    margin-bottom: 50px;
+    background-color: #e0e3e5;
+    
+}
+
+#faqs .about-this {
+    
+    background-color: #00acfc;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 180px;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: white;
+    
+}
+
+#faqs .breadcrumb {
+    
+    background-color: #00acfc;
+    
+}
+
+#faqs .breadcrumb li {
+    
+    color: white;
+    
+}
+
+#faqs .breadcrumb a {
+    
+    color: skyblue;
+    
+}
+
+#faqs .breadcrumb a:hover {
+    
+    color: white;
+    
+}
+
+#faqs .card-body a {
+    
+    border: 0;
+    
+}
+
+#faqs .card-title {
+
+    background-color: #00acfc;
+    padding: 20px;
+    color: white;
+    box-shadow: 0px 10px 0px 0px #b2e2f7;
+
+}
+
+#faqs .card-body a:hover {
+    
+    background-color: #00acfc;
+    color: white;
+    
+}
+
+#faqs .alignleft {
+    float: left;
+    margin: 5px 20px 10px 0;
+}
+
+#faqs .list-faqs a:hover {
+    
+    background-color: #e0e3e5;
+}
+
+#blog .about-this {
+    
+    background-color: #00acfc;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 180px;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: white;
+    
+}
+
+#blog .breadcrumb {
+    
+    background-color: #00acfc;
+    
+}
+
+#blog .breadcrumb li {
+    
+    color: white;
+    
+}
+
+#blog .breadcrumb a {
+    
+    color: skyblue;
+    
+}
+
+#blog .breadcrumb a:hover {
+    
+    color: white;
+    
+}
+
+#blog .card-body a {
+    
+    border: 0;
+    
+}
+
+#blog .card-title {
+
+    background-color: #00acfc;
+    padding: 20px;
+    color: white;
+    box-shadow: 0px 10px 0px 0px #b2e2f7;
+
+}
+
+#blog .card-body a:hover {
+    
+    background-color: #00acfc;
+    color: white;
+    
+}
+
+#blog .alignleft {
+    float: left;
+    margin: 5px 20px 10px 0;
+}
+
 
 
 
