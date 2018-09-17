@@ -758,6 +758,69 @@ footer {
     margin: 5px 20px 10px 0;
 }
 
+#offshore .about-this {
+    
+    background-color: #00acfc;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 180px;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: white;
+    
+}
+
+#offshore .breadcrumb {
+    
+    background-color: #00acfc;
+    
+}
+
+#offshore .breadcrumb li {
+    
+    color: white;
+    
+}
+
+#offshore .breadcrumb a {
+    
+    color: skyblue;
+    
+}
+
+#offshore .breadcrumb a:hover {
+    
+    color: white;
+    
+}
+
+#offshore .card-body a {
+    
+    border: 0;
+    
+}
+
+#offshore .card-title {
+    
+    background-color: #00acfc;
+    padding: 20px;
+    color: white;
+    box-shadow: 0px 10px 0px 0px #b2e2f7;
+
+}
+
+#offshore .card-body a:hover {
+    
+    background-color: #00acfc;
+    color: white;
+    
+}
+
+#offshore .alignleft {
+    float: left;
+    margin: 5px 20px 10px 0;
+}
+
 
 
 
